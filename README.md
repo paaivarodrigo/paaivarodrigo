@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Paiva</h1>
 <h3 align="center">Passionate about the Universe of Data Analytics</h3>
 
-- 🔭 I am currently looking for work in data analysis and visualization. Check my [Personal Project](https://paaivarodrigo.wordpress.com/)
+- 🔭 I am currently looking for work in data analysis and visualization. Check my [Portfolio](https://paaivarodrigo.wordpress.com/)
 
 - 👨🏻‍🔬 I’m currently learning **Google Data Analytics**
 
